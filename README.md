@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Recipe
 =======
 # Mitt favoritrecept
@@ -29,4 +28,3 @@ När ni skapar receptet så är det viktigt att receptet är enkelt att följa o
 
   <figure><img src="example-img2.webp"></figure>
   <figure><img src="example-img3.webp"></figure>
->>>>>>> 9e99936 (initial commit)
