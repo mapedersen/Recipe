@@ -1,0 +1,36 @@
+html {
+    font-family: "Playwrite NG Modern";
+    margin: 0 auto;
+}
+
+.m10-p10 {
+    margin: 10px;
+    padding: 10px;
+}
+
+header {
+    background-color: #c57700;
+    text-align: center;
+}
+
+.header-text {
+
+}
+
+.images {
+    display: flex; 
+    justify-content: center;
+    height: 400px;
+}
+
+.ingredients {
+    background-color: #ffbf40;
+}
+
+.cooking {
+    background-color: #ffbf40;
+}
+
+footer {
+    background-color: #c57700;
+}
